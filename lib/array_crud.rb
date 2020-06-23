@@ -28,7 +28,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
   array_0 = ["wow","Miku","Matcha","Stella","Mr.Pie","arrays!"]
-  array_0[1]
+  array_0[2]
 end 
 
 def retrieve_first_element_from_array(array)
