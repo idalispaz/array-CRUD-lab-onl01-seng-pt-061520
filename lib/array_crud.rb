@@ -8,11 +8,12 @@ end
 
 def add_element_to_end_of_array(array, element)
 array_0 = ["Miku", "Matcha", "Stella", "Mr.Pie"]
-array_0.push("arrays!")
+array_0.push("Harley")
 end
 
 def add_element_to_start_of_array(array, element)
-  
+  array_0 = ["Miku", "Matcah", "Stella", "Mr.Pie"]
+  array_0.unshift("Harley")
 end
 
 def remove_element_from_end_of_array(array)
