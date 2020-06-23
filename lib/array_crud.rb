@@ -22,7 +22,7 @@ end
 
 def remove_element_from_start_of_array(array)
   array_0 = ["Miku", "Matcha", "Stella", "Mr.Pie"]
-  array_0.shift
+  array_0.shift("arrays!")
 end
 
 def retrieve_element_from_index(array, index_number)
